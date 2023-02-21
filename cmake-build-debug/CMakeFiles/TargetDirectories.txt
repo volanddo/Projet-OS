@@ -1,0 +1,3 @@
+/user/7/volandd/Documents/2A/conception os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/user/7/volandd/Documents/2A/conception os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/user/7/volandd/Documents/2A/conception os/cmake-build-debug/CMakeFiles/conception_os.dir

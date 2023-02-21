@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="conception_os"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/user/7/volandd/Documents/2A/conception os/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/user/7/volandd/Documents/2A/conception os/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/user/7/volandd/Documents/2A/conception os/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="conception_os">
+				<Option output="/user/7/volandd/Documents/2A/conception os/cmake-build-debug/conception_os" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/2A/conception os/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/2A/conception os/src_de_base"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 conception_os"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="conception_os/fast">
+				<Option output="/user/7/volandd/Documents/2A/conception os/cmake-build-debug/conception_os" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/7/volandd/Documents/2A/conception os/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/user/7/volandd/Documents/2A/conception os/src_de_base"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 conception_os/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/user/7/volandd/Documents/2A/conception\ os/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/clock_print.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/clock_print.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/console.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/console.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/ctype.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/debug.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/debugger.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/div64.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/div64.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/empty.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/inttypes.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/panic.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/printf.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/processor_structs.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/processor_structs.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/processus.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/processus.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/segment.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/sprintf.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/start.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/start.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/stdbool.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/stddef.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/stdio.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/stdlib.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/string.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/string.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/strtol.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/strtoul.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/tinyalloc.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/tinyalloc.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/traitants_.c">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/traitants_.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/src_de_base/types.h">
+			<Option target="conception_os"/>
+		</Unit>
+		<Unit filename="/user/7/volandd/Documents/2A/conception os/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,280 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src_de_base/ctype.h
+
+../src_de_base/debug.h
+stdarg.h
+../src_de_base/stdarg.h
+
+../src_de_base/inttypes.h
+
+../src_de_base/stdarg.h
+
+../src_de_base/stdbool.h
+
+../src_de_base/stddef.h
+types.h
+../src_de_base/types.h
+
+../src_de_base/stdio.h
+debug.h
+../src_de_base/debug.h
+
+../src_de_base/string.h
+stddef.h
+-
+
+../src_de_base/tinyalloc.h
+stdbool.h
+-
+stddef.h
+-
+
+../src_de_base/types.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/clock_print.c
+clock_print.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/clock_print.h
+console.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/console.h
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+stdio.h
+-
+string.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/clock_print.h
+inttypes.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/console.c
+console.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/console.h
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+string.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/console.h
+inttypes.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/debug.h
+stdarg.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/debugger.c
+debug.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/debug.h
+processor_structs.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/processor_structs.h
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+string.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/string.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/div64.c
+div64.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/div64.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/div64.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.c
+stdarg.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h
+string.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/string.h
+doprnt.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/empty.c
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/inttypes.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/panic.c
+debug.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/debug.h
+stdarg.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/printf.c
+stdarg.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h
+doprnt.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.h
+console.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/console.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/processor_structs.c
+processor_structs.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/processor_structs.h
+start.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/start.h
+string.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/string.h
+debug.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/debug.h
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/processor_structs.h
+segment.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/segment.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/processus.c
+processus.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/processus.h
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+tinyalloc.h
+-
+string.h
+-
+stdio.h
+-
+tinyalloc.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/processus.h
+inttypes.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/inttypes.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/segment.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/sprintf.c
+stdarg.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h
+doprnt.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/doprnt.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/start.c
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+inttypes.h
+-
+stdio.h
+-
+console.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/console.h
+traitants_.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/traitants_.h
+processus.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/processus.h
+stdio.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/start.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/stdarg.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/string.c
+stddef.h
+-
+string.h
+-
+stddef.h
+-
+string.h
+-
+stddef.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+stddef.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+string.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/string.h
+stddef.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/strtol.c
+ctype.h
+-
+string.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/strtoul.c
+ctype.h
+-
+string.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/tinyalloc.c
+tinyalloc.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/tinyalloc.h
+inttypes.h
+-
+stdbool.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/tinyalloc.h
+stdbool.h
+-
+stddef.h
+-
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/traitants_.c
+traitants_.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/traitants_.h
+segment.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/segment.h
+cpu.h
+/user/7/volandd/Documents/2A/conception os/src_de_base/cpu.h
+
+/user/7/volandd/Documents/2A/conception os/src_de_base/traitants_.h
+inttypes.h
+-
+

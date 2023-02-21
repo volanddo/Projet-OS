@@ -1,0 +1,4 @@
+/opt/clion-2021.1.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/user/7/volandd/Documents/2A/conception os"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /user/7/volandd/Documents/2A/conception os/cmake-build-debug
